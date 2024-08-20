@@ -92,8 +92,8 @@ students[j]=new Student(name,grade,studentClass);
 case 3:
         System.out.println("Exiting...");
                     return;
-                default:
-                    System.out.println("Invalid choice. Please try again.");
+default:
+        System.out.println("Invalid choice. Please try again.");
 }
 }
 for(Teacher teacher:teachers)
